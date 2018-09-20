@@ -1,0 +1,8 @@
+
+<html>
+<body>
+
+<button type="button" "button" onclick="alert('Xin chào!');">Click Me!</button>
+
+</body>
+</html>
