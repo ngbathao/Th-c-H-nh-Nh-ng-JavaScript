@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<script>
+  var a =  prompt("Nhap vao gia tri a", '') ;
+  var b =  prompt("Nhap vao gia tri b", '') ;
+  alert(a);
+  alert(b); // a chay ra xem e coi no noi j
+  if(a % b === 0) {
+    alert('a la boi cua b');
+
+  } else {
+    alert("a khong la boi cua b");
+  }
+
+</script>
+
+
+</body>
+<head>
+  <meta charset="UTF-8">
+  <title>Hello</title>
+</head>
+</html>
+
+

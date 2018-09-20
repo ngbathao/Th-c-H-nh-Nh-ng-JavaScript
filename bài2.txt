@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hello</title>
+</head>
+<body>
+<script>
+
+  var width = 200;
+  var height = 100;
+
+  document.write("Dien tich hinh chu nhat la: ",width*height);
+</script>
+
+</body>
+</html>
